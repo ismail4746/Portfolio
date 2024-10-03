@@ -13,6 +13,14 @@
   }
 }
 
+@font-face {
+  font-family: 'Amsterdam Three';
+  src: url('../src/font/amsterday/Amsterday.ttf') format('truetype'); /* Adjust the file name and format as needed */
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -36,3 +44,5 @@
     transform: rotate(360deg);
   }
 }
+
+
